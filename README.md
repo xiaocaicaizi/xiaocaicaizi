@@ -4,7 +4,7 @@
 
 🌱 Currently learning: How to not break things and How to make them work when I do
 🤔 Ask me about: The best way to Google an error message
-📫 How to reach me: [email/contact info]
+📫 How to reach me: xxx
 
 Fun fact: I can break a project with 5 lines of code, but I’ll try my best to fix it with 1000. 😜
 
